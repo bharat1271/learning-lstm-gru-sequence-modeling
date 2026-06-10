@@ -126,6 +126,4 @@ This project was implemented while following a structured Deep Learning course a
 
 ## Live Demo
 
-Streamlit App:
-
-(Add deployment URL here)
+Streamlit App: https://lstm-gru-sequence-modeling.streamlit.app/
